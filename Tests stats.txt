@@ -1,0 +1,1 @@
+Number of words 638669, Table size 1646237, Load Factor 0.3879568980651024, Collisions 73987, Average chain length 0.5515298221770588, Longest chain length 17
